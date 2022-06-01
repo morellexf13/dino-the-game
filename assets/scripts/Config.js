@@ -1,0 +1,11 @@
+var config = {
+    "INITIAL_SCORE": 0,
+    "INITIAL_SPEED": 10,
+    "INTIAL_SPEED_INCREMENT": 0.005,
+    "DEFAULT_NORMAL_MODE_OBSTACLES": 1,
+    "DEFAULT_HARD_MODE_OBSTACLES": 2,
+    "DEFAULT_HARD_MODE_TEXT": "☠️ Hard mode enabled ☠️",
+    "DEFAULT_GAMEOVER_TEXT": "Game 🏴‍☠️ over",
+    "DEFAULT_PLAYER_SIZE": 80,
+    "DEFAULT_OBSTACLE_SIZE": 75
+}

@@ -1,0 +1,34 @@
+* {
+  font-family: "Dinosaur", sans-serif;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* 🚫 Avoid scroll */
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-image: url("../images/bg.jpg");
+  cursor: url('../images/cursor.png'), auto;
+}
+
+.container {
+  font-family: monospace;
+  font-size: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+/* 🫵 Avoid text selection */
+.no-select {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+}

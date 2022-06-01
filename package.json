@@ -1,0 +1,38 @@
+{
+  "name": "dino-the-game-lite",
+  "version": "0.0.1",
+  "description": "She is a beautiful dinosaur and she likes to jump... A LOT!!..",
+  "author": "morellexf26",
+  "license": "MIT",
+  "main": "main.js",
+  "build": {
+    "productName": "Dino - The Game™ LITE",
+    "appId": "dino-the-game-lite",
+    "mac": {
+      "target": [
+        {
+          "target": "default",
+          "arch": "universal"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "app:dir": "electron-builder --dir",
+    "app:dist": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morellexf26/dino-the-game-lite.git"
+  },
+  "keywords": [
+    "Electron",
+    "frameworkless",
+    "game"
+  ],
+  "devDependencies": {
+    "electron": "^19.0.1",
+    "electron-builder": "^23.0.3"
+  }
+}
