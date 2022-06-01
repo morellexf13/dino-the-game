@@ -1,4 +1,7 @@
-// 📐 https://p5js.org
+/**
+ * 📐 https://p5js.org
+ *  https://github.com/processing/p5.js/wiki/Optimizing-p5.js-Code-for-Performance#identifying-slow-code-profiling
+ * */ 
 var score = config.INITIAL_SCORE;
 var highScore = config.INITIAL_SCORE;
 var speed = config.INITIAL_SPEED;
@@ -6,7 +9,6 @@ var scrollBg = 0;
 var obstacles = [];
 var player;
 var restart = false;
-var hardMode = false;
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
@@ -33,7 +35,6 @@ function setup() {
 
 
 function draw() {
-
   // 🖼  Animate the background
   // ------------------------------------------------------------
   image(bgimage, -scrollBg, 0, width,height);
