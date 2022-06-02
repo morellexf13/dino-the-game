@@ -10,19 +10,20 @@
   </h1>
   <sup>
     <br />
-   This is the LITE version of Dino based on p5 and electron-frameworkless</em>
+   This is the LITE version of Dino based on p5 and electron-frameworkless.</em>
     <br />
     <br />
-    
-   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/blob/main/LICENSE)
-   [![Version](https://img.shields.io/github/v/tag/morellexf26/dino-the-game-lite?label=%20&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/releases)
-  </sup>
-  <br />
-</div>
+
+[![Version](https://img.shields.io/github/v/tag/morellexf26/dino-the-game-lite?label=%20&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/releases)
+[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/blob/main/LICENSE)
+
+<img src=".github/images/beta.svg">
+ </sup>
 
 <br>
-
+Home screen
 <img alt='Gameplay' src="./assets/screenshots/gameplay.png" />
+</div>
 
 ## 🦣 Features
 
@@ -35,10 +36,13 @@
 
 ## 🦧 Build
 
-1. `npm run app:dir`
-2. Look at `dist/` folder.
+```
+npm run app:dir
+```
 
 ## 🦘 Run
 
-1. `npm install`
-2. `npm run start`
+```
+npm install
+npm run start
+```
