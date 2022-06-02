@@ -19,8 +19,10 @@
 
 <img src=".github/images/beta.svg">
  </sup>
-
+ 
 <br>
+<br>
+
 Home screen
 <img alt='Gameplay' src="./assets/screenshots/gameplay.png" />
 </div>
