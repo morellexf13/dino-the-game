@@ -1,13 +1,13 @@
 {
-  "name": "dino-the-game-lite",
-  "version": "0.0.1",
-  "description": "She is a beautiful dinosaur and she likes to jump... A LOT!!..",
-  "author": "morellexf26",
+  "name": "dino-the-game",
+  "version": "0.0.2",
+  "description": "Simple 2D game built using JavaScript and the p5.js",
+  "author": "morellexf13",
   "license": "MIT",
   "main": "main.js",
   "build": {
-    "productName": "Dino - The Game™ LITE",
-    "appId": "dino-the-game-lite",
+    "productName": "Dino - The Game™",
+    "appId": "dino-the-game",
     "mac": {
       "target": [
         {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/morellexf26/dino-the-game-lite.git"
+    "url": "https://github.com/morellexf13/dino-the-game.git"
   },
   "keywords": [
     "Electron",

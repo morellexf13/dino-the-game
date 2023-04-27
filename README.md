@@ -1,21 +1,21 @@
 <div align="center">
   <h1>
     <br/>
-    🦖 + 🪶
+    🦖
     <br />
     <br />
-    Dino - The Game LITE™ 
+    Dino - The Game™ 
     <br />
     <br />
   </h1>
   <sup>
     <br />
-   This is the LITE version of Dino based on p5 and electron-frameworkless.</em>
+   Simple 2D game built using JavaScript and the p5.js</em>
     <br />
     <br />
 
-[![Version](https://img.shields.io/github/v/tag/morellexf26/dino-the-game-lite?label=%20&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/releases)
-[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/dino-the-game-lite/blob/main/LICENSE)
+[![Version](https://img.shields.io/github/v/tag/morellexf26/dino-the-game?label=%20&style=for-the-badge)](https://github.com/morellexf26/dino-the-game/releases)
+[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/dino-the-game/blob/main/LICENSE)
 
 <img src=".github/images/beta.svg">
  </sup>
@@ -26,14 +26,9 @@
 <img alt='Gameplay' src="./assets/screenshots/gameplay.png" />
 </div>
 
-## 🦣 Features
+Dino - The Game™ : The Adventures of a Dinosaur is a simple 2D game built using JavaScript and the p5.js library in which the user controls a dinosaur character named Dino who tries to jump over gorillas to score points. The game gets progressively harder as the gorillas move faster and come at you more frequently.
 
-- Based on [p5](https://p5js.org).
-- Based on [electron-frameworkless](https://github.com/morellexf26/electron-frameworkless).
-- Lighter version.
-- Better quality.
-
-<br>
+<br/>
 
 ## 🦧 Build
 
@@ -47,3 +42,9 @@ npm run app:dir
 npm install
 npm run start
 ```
+
+<br/>
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
