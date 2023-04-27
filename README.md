@@ -14,8 +14,8 @@
     <br />
     <br />
 
-[![Version](https://img.shields.io/github/v/tag/morellexf26/dino-the-game?label=%20&style=for-the-badge)](https://github.com/morellexf26/dino-the-game/releases)
-[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/dino-the-game/blob/main/LICENSE)
+[![Version](https://img.shields.io/github/v/tag/morellexf13/dino-the-game?label=%20&style=for-the-badge)](https://github.com/morellexf13/dino-the-game/releases)
+[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/dino-the-game/blob/main/LICENSE)
 
 <img src=".github/images/beta.svg">
  </sup>
