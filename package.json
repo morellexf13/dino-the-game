@@ -1,6 +1,6 @@
 {
   "name": "dino-the-game",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple 2D game built using JavaScript and the p5.js",
   "author": "morellexf13",
   "license": "MIT",
@@ -32,7 +32,7 @@
     "game"
   ],
   "devDependencies": {
-    "electron": "^26.3.0",
-    "electron-builder": "^24.6.4"
+    "electron": "^28.1.2",
+    "electron-builder": "^24.9.1"
   }
 }
